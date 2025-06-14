@@ -1,0 +1,7 @@
+1. 2018 has the maximum sales over all 4 years.
+
+2. Canon image class is the top selling product over entire country.
+
+3. Washington DC has the max number of consumers and generating largest part of sales.
+
+4. Most consumers rely on standard shipping mode and same day shipping mode is used very rarely.
